@@ -1,0 +1,8 @@
+html{
+	postion:relative;
+	min-height=100%;
+}
+
+body{
+	font-family: 'Lucida Casual','Comic Sans MS';
+}
