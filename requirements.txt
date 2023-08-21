@@ -31,5 +31,3 @@ utils2==0.1.2
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 web.py==0.39
-
-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
